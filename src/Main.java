@@ -109,6 +109,27 @@ public class Main {
 //        p6.setPreco(459.0);
 //        p6.setTamanho(250.0);
 //        p6.mostrarInformacoes();
+        //EXERCICIO 4
+//        ContaBancaria minhaConta = new ContaBancaria();
+//        minhaConta.setTitular("Juliana");
+//        minhaConta.depositar(1500);
+//        minhaConta.sacar(200);
+//        minhaConta.depositar(150);
+//        minhaConta.exibirDados();
+
+
+        //EXERCICIO 5
+        //Produto notebook = new Produto("Notebook Gamer", 4500.0, 10);
+        //System.out.println("Preco Inicial: " + notebook.getPreco());
+
+        //notebook.setPreco(-50);
+
+        //notebook.setPreco(4200);
+        //System.out.println("Novo Preco: " + notebook.getPreco());
+
+        //EXERCICIO 6
+
+
 
     }
 }
